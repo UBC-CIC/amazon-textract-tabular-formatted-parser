@@ -14,3 +14,10 @@ The Amazon Textract Tabular Formatted Parser Application is a prototype created 
 ## Deployment 
 To deploy this solution into your AWS account please follow the [deployment guide](deployment_guide.md)
 
+## Credits
+
+This prototype was coded by the UBC Student Jock Hou, with the guidance from the UBC CIC technical team.
+
+## License
+
+This library is licensed under the Apache 2.0 License.
