@@ -16,7 +16,7 @@ To deploy this solution into your AWS account please follow the [deployment guid
 
 ## Credits
 
-This prototype was coded by the UBC Student Jack Hou with the guidance from the UBC CIC technical team.
+This prototype was coded by the UBC Students Jack Hou and Aamir Sheergar with the guidance from the UBC CIC technical team.
 
 ## License
 
