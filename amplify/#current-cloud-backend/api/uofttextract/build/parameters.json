@@ -1,0 +1,17 @@
+{
+    "CreateAPIKey": 0,
+    "AppSyncApiName": "uofttextract",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authuottextractfrontend2be87fcf",
+            "Outputs.UserPoolId"
+        ]
+    },
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "S3DeploymentBucket": "amplify-uottextractfrontend-dev-122756-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/f84cd95d31b99fc84d22a6348a3a0cf275bc201c"
+}
